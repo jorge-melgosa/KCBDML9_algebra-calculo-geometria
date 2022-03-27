@@ -1,4 +1,4 @@
-# Modulo: Algebra-calculo-geometría
+# Modulo: Algebra para Big Data
 `Fecha maxima de entrega: 27 de Marzo 2022`
 
 ## Practica
